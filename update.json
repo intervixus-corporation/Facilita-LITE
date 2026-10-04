@@ -2,9 +2,9 @@
   "schema_version": 1,
   "package_id": "Intervixus.FacilitaLite",
   "name": "Facilita LITE for PC",
-  "version": "2.0.1",
-  "description": "Versao 2.0.1 do shell Facilita LITE para Windows com melhorias no update, notificacoes e estabilidade do ambiente.",
-  "download_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/download/FCL-2.0.1/FacilitaLite.exe",
-  "sha256": "sha256:cbfd7a4d8e22868098ed2374e73dfd2c8deffe2949337d38b26ee145ca0f0f62",
-  "docs_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/tag/FCL-2.0.1"
+  "version": "2.0.2",
+  "description": "Versao 2.0.2 do Facilita LITE para Windows traz melhorias, correcoes, e ainda mais recursos.",
+  "download_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/download/FCL-2.0.2/FacilitaLite.exe",
+  "sha256": "sha256:03bf4727e3d770e4eaa8c2f3a7a4d8df63cf27364043a46263a9d7a7020099c3",
+  "docs_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/tag/FCL-2.0.2"
 }

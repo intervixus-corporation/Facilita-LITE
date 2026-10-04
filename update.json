@@ -4,6 +4,7 @@
   "name": "Facilita LITE for PC",
   "version": "1.0.0",
   "description": "Versao inicial do shell Facilita LITE para Windows.",
-  "download_url": "https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/download/v1.0.0/FacilitaLite.zip",
-  "docs_url": "https://github.com/SEU-USUARIO/SEU-REPOSITORIO"
+  "download_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/download/v1.0.0/FacilitaLite.exe",
+  "sha256": "PREENCHER_COM_64_CARACTERES_HEXADECIMAIS",
+  "docs_url": "https://github.com/intervixus-corporation/Facilita-LITE"
 }

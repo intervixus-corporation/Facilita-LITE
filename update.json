@@ -3,8 +3,8 @@
   "package_id": "Intervixus.FacilitaLite",
   "name": "Facilita LITE for PC",
   "version": "2.0.4",
-  "description": "Versao 2.0.2 do Facilita LITE para Windows traz melhorias, correcoes, e ainda mais recursos.",
+  "description": "Instalador Facilita LITE para Windows 2.0.4; permite instalar, reparar ou atualizar a instalação existente.",
   "download_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/download/FCL-2.0.4/Facilita-LITE-SETUP.exe",
-  "sha256": "ab2162db08a7c9b3188e5d171d75a6ba852bfe1dacff21626c9264ebb307e41d1",
+  "sha256": "sha256:b2162db08a7c9b3188e5d171d75a6ba852bfe1dacff21626c9264ebb307e41d1",
   "docs_url": "https://github.com/intervixus-corporation/Facilita-LITE/releases/tag/FCL-2.0.4"
 }
